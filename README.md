@@ -1,9 +1,9 @@
-# Marcus Fonseca
+# Olá, Bem Vindo!! 👋
 
-- 💻 Desenvolvedor Full-Stack 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas 
-- 📚 Técnico em Desenvolvimento de Sistemas no SENAI Anchieta 
-- 🚀 Em busca da primeira oportunidade na área de tecnologia 
+- 💻 Desenvolvedor Full-Stack
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- 📚 Técnico em Desenvolvimento de Sistemas no SENAI Anchieta
+- 🚀 Em busca da primeira oportunidade na área de tecnologia
 
 ☕ Focado em evolução constante, disciplina e construção de soluções eficientes.
 
@@ -16,6 +16,7 @@
 - 🏋️ Disciplina e constância fazem parte da minha rotina
 
 ## 🛠️ Tecnologias & Ferramentas
+
 - 💻 Back-end
 <p> <img src="https://skillicons.dev/icons?i=java,python" /> </p>
 
@@ -38,8 +39,6 @@
 - 🏊‍♂️ Sou nadador desde minha infância.
 - 🎻 Sou violinista.
 
-
 ## 📫 Contato
+
 <p> <a href="https://www.linkedin.com/in/marcus-fonseca7/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:marcus.fonseca968@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
-
-
