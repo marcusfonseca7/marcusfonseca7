@@ -35,9 +35,10 @@
 
 ## 💡 Curiosidades
 
-- 🏐 Sou jogador de volêi.
-- 🏊‍♂️ Sou nadador desde minha infância.
-- 🎻 Sou violinista.
+- 🏐 Sou jogador de volêi
+- 🏊‍♂️ Sou nadador desde minha infância
+- 🎻 Sou violinista
+- 🍀 Meu número da sorte é 7
 
 ## 📫 Contato
 
