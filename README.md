@@ -1,7 +1,6 @@
 # Olá, Bem Vindo!! 👋
 
-<p style="font-weight: 600; font-size: 23px; text-align: center;"> 💻 Desenvolvedor Full-Stack </p>
-
+- 💻 Desenvolvedor Full-Stack 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🎓 Bacharelado em Ciência e Tecnologia – UFABC (em andamento)
 - 📚 Técnico em Desenvolvimento de Sistemas no SENAI Anchieta (em andamento)
