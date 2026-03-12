@@ -1,6 +1,7 @@
-# Olá, Bem Vindo!! 👋
+<h1 align="center"> Olá! Sou o Marcus, seja bem vindo!👋</h1>
 
-- 💻 Desenvolvedor Full-Stack 
+<h3 align="center">Desenvolvedor Full-Stack</h3>
+
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🎓 Bacharelado em Ciência e Tecnologia – UFABC (em andamento)
 - 📚 Técnico em Desenvolvimento de Sistemas no SENAI Anchieta (em andamento)
@@ -44,4 +45,4 @@
 
 ## 📫 Contato
 
-<p> <a href="https://www.linkedin.com/in/marcus-fonseca7/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:marcus.fonseca968@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
+<p> <a href="https://www.linkedin.com/in/marcus-fonseca7/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:marcus.fonseca968@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://www.instagram.com/m4rcus_vf/"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> </p>
