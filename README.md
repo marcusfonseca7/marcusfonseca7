@@ -2,9 +2,9 @@
 
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 🎓 Bacharelado em Ciência e Tecnologia – UFABC (em andamento)
-- 📚 Técnico em Desenvolvimento de Sistemas no SENAI Anchieta (em andamento)
+- 🎓 <b>Graduado</b> em Análise e Desenvolvimento de Sistemas
+- 🎓 Bacharelado em Ciência e Tecnologia – <b> UFABC </b> (em andamento)
+- 📚 Técnico em Desenvolvimento de Sistemas no <b> SENAI Anchieta </b> (em andamento)
 - 🚀 Em busca da primeira oportunidade na área de tecnologia
 
 ☕ Focado em evolução constante, disciplina e construção de soluções eficientes.
@@ -13,21 +13,21 @@
 
 <h3 align="center">🚀 Sobre mim</h3>
 
-<picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_UFABC.jpg" width = 100px;></picture>
+<picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_UFABC.jpg" width = 105px;></picture>
   
-- 🎓 Cursando: Bacharelado em Ciência e Tecnologia – Universidade Federal do ABC (UFABC)
+- 🎓 Cursando: Bacharelado em Ciência e Tecnologia – <b>Universidade Federal do ABC (UFABC) </b>
 
-- 📚 Também cursando: Técnico em Desenvolvimento de Sistemas – SENAI Anchieta
+- 📚 Também cursando: Técnico em Desenvolvimento de Sistemas – <b>SENAI Anchieta</b>
   
-- 🎯Formado em Análise e Desenvolvimento de Sistemas – Universidade Braz Cubas
+- 🎯Formado em Análise e Desenvolvimento de Sistemas – <b>Universidade Braz Cubas</b>
   
 - 💡 Interesses: Desenvolvimento Web, APIs, Arquitetura de Sistemas e Banco de Dados
-<picture> <img align="right" src="https://anprotec.org.br/site/wp-content/uploads/2018/09/logo-senai-cor-1.jpg" width = 100px></picture>
+<picture> <img align="right" src="https://anprotec.org.br/site/wp-content/uploads/2018/09/logo-senai-cor-1.jpg" width = 105px></picture>
   
-- 🧠 Perfil: Organizado, proativo, comunicativo, resiliente e sempre buscando aprender algo novo
+- 🧠 Perfil Organizado, proativo, comunicativo, resiliente e sempre buscando aprender algo novo
   
 - 🏋️ Disciplina e constância fazem parte da minha rotina
-<br> <picture> <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTzy-FEGRrKU93PM86D0fVEacHtDYv9Ua0w&s" width = 100px></picture>
+<br> <picture> <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTzy-FEGRrKU93PM86D0fVEacHtDYv9Ua0w&s" width = 105px></picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
