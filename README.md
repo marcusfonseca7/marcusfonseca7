@@ -34,17 +34,17 @@
 <h3 align="center"><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologias & Ferramentas</h3>
 
 
-- 💻 Back-end
-<p> <img src="https://skillicons.dev/icons?i=java,python" /> </p>
+<h4 align="center"> 💻 Back-end </h4> <p align="center"> 
+<img src="https://skillicons.dev/icons?i=java,python" /> </p>
 
-- 🌐 Front-end
-<p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
+<h4 align="center"> 🌐 Front-end </h4>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
 
-- 🗄️ Banco de Dados
-<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
+<h4 align="center"> 🗄️ Banco de Dados </h4>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
 
-- ⚙️ Ferramentas
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" /> </p>
+<h4 align="center"> ⚙️ Ferramentas </h4>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
