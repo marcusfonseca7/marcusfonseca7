@@ -26,7 +26,7 @@
   
 - 🧠 Perfil Organizado, proativo, comunicativo, resiliente e sempre buscando aprender algo novo
   
-- 🏋️ Disciplina e constância fazem parte da minha rotina
+- 🏋️ Disciplina e constância sempre fizeram parte da minha rotina
 <br> <picture> <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTzy-FEGRrKU93PM86D0fVEacHtDYv9Ua0w&s" width = 105px></picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
