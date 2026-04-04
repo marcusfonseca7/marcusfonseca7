@@ -82,7 +82,7 @@
 - 🎻 Sou violinista
 - 🍀 Meu número da sorte é 7
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -91,4 +91,11 @@
 
 <h3 align="center"> 📫 Contato </h3>
 
-<p align="center"> <a href="https://www.linkedin.com/in/marcus-fonseca7/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:marcus.fonseca968@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://www.instagram.com/m4rcus_vf/"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> </p>
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/marcus-fonseca7/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /> </a>
+<a href="https://www.instagram.com/m4rcus_vf/">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+</a> 
+<a href="mailto:marcus.fonseca968@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /> </a> 
+  
+</div>
