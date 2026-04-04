@@ -8,7 +8,7 @@
 - 🧠 Perfil Organizado, proativo, comunicativo, resiliente e sempre buscando aprender algo novo
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=marcusfonseca7&locale=en&mode=weekly&theme=great-gatsby&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=marcusfonseca7&locale=en&mode=weekly&theme=great-gatsby&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -26,10 +26,10 @@
 - 🎓 Técnico em Administração - Ensino Médio com Habilitação Técnica na <b> Etec Ferraz de Vasconcelos </b>
   
 <div align="center">
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jxPFhwFeKaJviIqXSDtEgqfg-CYAXXBz_A&s" width = 105px> ➡️
-<img align="center" src="https://www.sipetrol.org.br/wp-content/uploads/2023/03/Braz-Cubas-1.png" width = 113px> ➡️
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9SO0RlUApnvBzIQ7Tyb-Y1TPV25mxWK8Dw&s" width = 107px> ➡️
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_UFABC.jpg" width = 128px;>
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jxPFhwFeKaJviIqXSDtEgqfg-CYAXXBz_A&s" width = 85px> ➡️
+<img align="center" src="https://www.sipetrol.org.br/wp-content/uploads/2023/03/Braz-Cubas-1.png" width = 93px> ➡️
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9SO0RlUApnvBzIQ7Tyb-Y1TPV25mxWK8Dw&s" width = 87px> ➡️
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_UFABC.jpg" width = 108px;>
 </div>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
