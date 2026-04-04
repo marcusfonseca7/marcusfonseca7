@@ -2,34 +2,40 @@
 
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
-- 🎓 <b>Graduado</b> em Análise e Desenvolvimento de Sistemas
-- 🎓 Bacharelado em Ciência e Tecnologia – <b> UFABC </b> (em andamento)
-- 📚 Técnico em Desenvolvimento de Sistemas no <b> SENAI Anchieta </b> (em andamento)
-- 🚀 Em busca da primeira oportunidade na área de tecnologia
-
-☕ Focado em evolução constante, disciplina e construção de soluções eficientes.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<h3 align="center">🚀 Sobre mim</h3>
-
-<picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_UFABC.jpg" width = 105px;></picture>
-  
-- 🎓 Cursando: Bacharelado em Ciência e Tecnologia – <b>Universidade Federal do ABC (UFABC) </b>
-
-- 📚 Também cursando: Técnico em Desenvolvimento de Sistemas – <b>SENAI Anchieta</b>
-  
-- 🎯Formado em Análise e Desenvolvimento de Sistemas – <b>Universidade Braz Cubas</b>
-  
 - 💡 Interesses: Desenvolvimento Web, APIs, Arquitetura de Sistemas e Banco de Dados
-<picture> <img align="right" src="https://anprotec.org.br/site/wp-content/uploads/2018/09/logo-senai-cor-1.jpg" width = 105px></picture>
-  
+- ☕ Focado em evolução constante, disciplina e construção de soluções eficientes.
+- 🚀 Em busca da primeira oportunidade na área de tecnologia
 - 🧠 Perfil Organizado, proativo, comunicativo, resiliente e sempre buscando aprender algo novo
-  
-- 🏋️ Disciplina e constância sempre fizeram parte da minha rotina
-<br> <picture> <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTzy-FEGRrKU93PM86D0fVEacHtDYv9Ua0w&s" width = 105px></picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+
+
+
+<!-- --------------------Formação-------------------- -->
+
+
+<h3 align="center">🎓 Formação</h3>
+
+- 🎓 Bacharelado em Ciência e Tecnologia – <b> UFABC </b> (em andamento)
+- 🎓 Técnico em Desenvolvimento de Sistemas - <b> SENAI Anchieta </b> (em andamento)
+- 🎓 <b>Graduado</b> em Análise e Desenvolvimento de Sistemas - <b> Universidade Braz Cubas </b>
+- 🎓 Técnico em Administração - Ensino Médio com Habilitação Técnica na <b> Etec Ferraz de Vasconcelos </b>
+  
+<div align="center">
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jxPFhwFeKaJviIqXSDtEgqfg-CYAXXBz_A&s" width = 105px> ➡️
+<img align="center" src="https://www.sipetrol.org.br/wp-content/uploads/2023/03/Braz-Cubas-1.png" width = 113px> ➡️
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9SO0RlUApnvBzIQ7Tyb-Y1TPV25mxWK8Dw&s" width = 107px> ➡️
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_UFABC.jpg" width = 128px;>
+</div>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+
+
+
+<!-- --------------------Tecnologias-------------------- -->
+
 
 <h3 align="center"><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologias & Ferramentas</h3>
 
@@ -48,11 +54,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
+
+
+
+<!-- --------------------Objetivo-------------------- -->
+
+
 <h3 align="center">📈 Objetivo</h3> 
 
 - Atuar como desenvolvedor e contribuir com soluções bem estruturadas, escaláveis e organizadas, enquanto evoluo tecnicamente e profissionalmente.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+
+
+
+<!-- --------------------Curiosidades-------------------- -->
+
 
 <h3 align="center">💡 Curiosidades </h3>
 
@@ -62,6 +80,11 @@
 - 🍀 Meu número da sorte é 7
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+
+
+
+<!-- --------------------Contato-------------------- -->
 
 <h3 align="center"> 📫 Contato </h3>
 
