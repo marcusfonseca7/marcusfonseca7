@@ -2,7 +2,7 @@
 
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
-- 💡 Interesses: Desenvolvimento Web, APIs, Arquitetura de Sistemas e Banco de Dados
+- 💡 Interesses: Desenvolvimento Web, APIs, Arquitetura de Sistemas e Banco de Dados 
 - ☕ Focado em evolução constante, disciplina e construção de soluções eficientes.
 - 🚀 Em busca da primeira oportunidade na área de tecnologia
 - 🧠 Perfil Organizado, proativo, comunicativo, resiliente e sempre buscando aprender algo novo
