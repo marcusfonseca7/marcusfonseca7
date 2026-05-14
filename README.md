@@ -44,7 +44,7 @@
 
 
 <h4 align="center"> 💻 Back-end </h4> <p align="center"> 
-<img src="https://skillicons.dev/icons?i=java,python" /> </p>
+<img src="https://skillicons.dev/icons?i=java,python,flask" /> </p>
 
 <h4 align="center"> 🌐 Front-end </h4>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
