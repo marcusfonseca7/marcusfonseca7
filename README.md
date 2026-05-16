@@ -2,10 +2,10 @@
 
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
-- 💡 Interesses: Desenvolvimento Web, APIs, Arquitetura de Sistemas e Banco de Dados 
+- 💡 Interesses: Desenvolvimento Web, APIs, Arquitetura de Sistemas e Banco de Dados.
 - ☕ Focado em evolução constante, disciplina e construção de soluções eficientes.
-- 🚀 Em busca da primeira oportunidade na área de tecnologia
-- 🧠 Perfil Organizado, proativo, comunicativo, resiliente e sempre buscando aprender algo novo
+- 🚀 Em busca da primeira oportunidade na área de tecnologia!
+- 🧠 Perfil Organizado, proativo, comunicativo, resiliente e sempre buscando aprender algo novo.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=marcusfonseca7&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
@@ -77,10 +77,10 @@
 
 <h3 align="center">💡 Curiosidades </h3>
 
-- 🏐 Sou jogador de volêi
-- 🏊‍♂️ Sou nadador desde minha infância
-- 🎻 Sou violinista
-- 🍀 Meu número da sorte é 7
+- 🏐 Sou jogador de volêi.
+- 🏊‍♂️ Sou nadador desde minha infância.
+- 🎻 Sou violinista.
+- 🍀 Meu número da sorte é 7.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
