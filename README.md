@@ -6,7 +6,7 @@
 - ☕ Focado em evolução constante, disciplina e construção de soluções eficientes.
 - 🚀 Em busca da primeira oportunidade na área de tecnologia!
 - 🧠 Perfil Organizado, proativo, comunicativo, resiliente e sempre buscando aprender algo novo.
-
+ 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=marcusfonseca7&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
