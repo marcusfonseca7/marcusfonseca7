@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&size=28&pause=2000&duration=1500&color=f9f9f9&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Marcus!;Bem-vindo+ao+meu+perfil!;Espero+que+goste!" style="position: absolute; top: 300px; left:100px;"/>
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <h3 align="center"> Desenvolvedor Full-Stack </h3>
 
