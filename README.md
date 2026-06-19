@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="img/levi.png" width="100%" style="position: relative;">
+<img src="img/levi.png" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&size=28&pause=2000&duration=1500&color=f9f9f9&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Marcus!;Bem-vindo+ao+meu+perfil!;Espero+que+goste!" style="position: absolute; top: 300px; left:100px;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&size=28&pause=2000&duration=1500&color=7D735C&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Marcus!;Bem-vindo+ao+meu+perfil!;Espero+que+goste!"/>
 
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center"> Desenvolvedor Full-Stack </h3>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=marcusfonseca7&locale=en&mode=weekly&theme=apprentice&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
+</div> <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -34,7 +34,7 @@
 <img align="center" src="https://www.sipetrol.org.br/wp-content/uploads/2023/03/Braz-Cubas-1.png" width = 95px> ➡️
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9SO0RlUApnvBzIQ7Tyb-Y1TPV25mxWK8Dw&s" width = 90px> ➡️
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_UFABC.jpg" width = 108px;>
-</div>
+</div> <br>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
