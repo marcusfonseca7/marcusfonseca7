@@ -3,19 +3,26 @@
 <img src="img/levi.png" width="100%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&size=28&pause=2000&duration=1500&color=7D735C&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Marcus!;Bem-vindo+ao+meu+perfil!;Espero+que+goste!"/>
+<p align="center">
+Estudante de Bacharelado em Ciência e Tecnologia na UFABC e desenvolvedor com foco em desenvolvimento web, APIs e arquitetura de sistemas.  
+Atualmente, busco minha primeira oportunidade na área de tecnologia para aplicar e expandir meus conhecimentos na prática.
+</p>
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center"> Desenvolvedor Full-Stack </h3>
 
-- 💡 Interesses: Desenvolvimento Web, APIs, Arquitetura de Sistemas e Banco de Dados.
-- ☕ Focado em evolução constante, disciplina e construção de soluções eficientes.
-- 🚀 Em busca da primeira oportunidade na área de tecnologia!
-- 🧠 Perfil Organizado, proativo, comunicativo, resiliente e sempre buscando aprender algo novo.
+<h3 align="center"> Desenvolvedor Full-Stack em formação</h3>
+
+- 💡 Interesse em desenvolvimento web, APIs, arquitetura de sistemas e banco de dados.
+- ☕ Busco evoluir constantemente por meio de projetos, estudos e prática.
+- 🚀 Em busca da primeira oportunidade na área de tecnologia para aplicar meus conhecimentos e continuar crescendo.
+- 🧠 Valorizo organização, disciplina, comunicação e aprendizado contínuo.
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=marcusfonseca7&locale=en&mode=weekly&theme=apprentice&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=marcusfonseca7&locale=en&mode=weekly&theme=apprentice&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+  <img src="https://raw.githubusercontent.com/marcusfonseca7/marcusfonseca7/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div> <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -24,10 +31,10 @@
 
 <h3 align="center">🎓 Formação</h3>
 
-- 🎓 Bacharelado em Ciência e Tecnologia – <b> UFABC </b> (em andamento)
-- 🎓 Técnico em Desenvolvimento de Sistemas - <b> SENAI Anchieta </b> (em andamento)
-- 🎓 <b>Graduado</b> em Análise e Desenvolvimento de Sistemas - <b> Universidade Braz Cubas </b>
-- 🎓 Técnico em Administração - Ensino Médio com Habilitação Técnica na <b> Etec Ferraz de Vasconcelos </b>
+- 🎓 Bacharelado em Ciência e Tecnologia – <b>UFABC</b> (em andamento)
+- 🎓 Técnico em Desenvolvimento de Sistemas – <b>SENAI Anchieta</b> (em andamento)
+- 🎓 Análise e Desenvolvimento de Sistemas – <b>Universidade Braz Cubas</b>
+- 🎓 Técnico em Administração – <b>Etec Ferraz de Vasconcelos</b>
 
 <div align="center">
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jxPFhwFeKaJviIqXSDtEgqfg-CYAXXBz_A&s" width = 85px> ➡️
@@ -54,8 +61,20 @@
 <h4 align="center"> ⚙️ Ferramentas </h4>
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" /> </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<p align="center">
+Tenho focado meus estudos e projetos principalmente em <b>Java, Python, Flask, JavaScript, HTML/CSS e bancos de dados</b>.
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- --------------------Objetivo-------------------- -->
+
+<h3 align="center">🚀 Projetos em destaque</h3>
+
+- 🔹 [Portfólio Pessoal](https://marcusfonseca7.github.io/portfolio-pessoal/) — site desenvolvido para apresentar meus projetos, habilidades e trajetória.
+- 🔹 [CodeAI Assistant](https://github.com/marcusfonseca7/CodeAI-Assistant) — Sistema inteligente de análise de código com Inteligência Artificial.
+- 🔹 [Cenarios de Java](https://github.com/marcusfonseca7/CenariosJava) — Cenários-problema em Java para prática de lógica, POO e resolução de desafios computacionais.
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!-- --------------------Objetivo-------------------- -->
 
 <h3 align="center">📈 Objetivo</h3>
@@ -66,12 +85,11 @@
 
 <!-- --------------------Curiosidades-------------------- -->
 
-<h3 align="center">💡 Curiosidades </h3>
+<h3 align="center">💡 Além de Dev </h3>
 
-- 🏐 Sou jogador de volêi.
-- 🏊‍♂️ Sou nadador desde minha infância.
+- 🏐 Pratico volêi.
+- 🏊‍♂️ Nado desde a infância.
 - 🎻 Sou violinista.
-- 🍀 Meu número da sorte é 7.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
