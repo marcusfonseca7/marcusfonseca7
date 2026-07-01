@@ -8,7 +8,7 @@
 <br>
 <br>
 <p align="center">
-Estudante de Bacharelado em Ciência e Tecnologia na UFABC e desenvolvedor com foco em desenvolvimento web, APIs e arquitetura de sistemas.  
+Estudante de Bacharelado em Ciência e Tecnologia na UFABC e desenvolvedor com foco em desenvolvimento web, APIs e arquitetura de sistemas.   
 Atualmente, busco minha primeira oportunidade na área de tecnologia para aplicar e expandir meus conhecimentos na prática.
 </p>
 
