@@ -74,9 +74,9 @@ Tenho focado meus estudos e projetos principalmente em <b>Java, Python, Flask, J
 
 <h3 align="center">🚀 Projetos em destaque</h3>
 
-- 🔹 [Portfólio Pessoal](https://marcusfonseca7.github.io/portfolio-pessoal/) — site desenvolvido para apresentar minha trajetória, projetos, habilidades e formas de contato.
-- 🔹 [CodeAI Assistant](https://github.com/marcusfonseca7/CodeAI-Assistant) — aplicação para análise de código com apoio de Inteligência Artificial, voltada a organização, interpretação e suporte ao desenvolvimento.
-- 🔹 [Cenários de Java](https://github.com/marcusfonseca7/CenariosJava) — coleção de cenários-problema em Java para praticar lógica de programação, orientação a objetos e resolução de desafios computacionais.
+- [Portfólio Pessoal](https://marcusfonseca7.github.io/portfolio-pessoal/) — site desenvolvido para apresentar minha trajetória, projetos, habilidades e formas de contato.
+- [CodeAI Assistant](https://github.com/marcusfonseca7/CodeAI-Assistant) — aplicação para análise de código com apoio de Inteligência Artificial, voltada a organização, interpretação e suporte ao desenvolvimento.
+- [Cenários de Java](https://github.com/marcusfonseca7/CenariosJava) — coleção de cenários-problema em Java para praticar lógica de programação, orientação a objetos e resolução de desafios computacionais.
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!-- --------------------Objetivo-------------------- -->
