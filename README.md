@@ -3,7 +3,7 @@
 <img src="img/levi.png" width="100%">
  
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&size=28&pause=2000&duration=1500&color=4F756F&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Marcus!;Bem-vindo+ao+meu+perfil!;Espero+que+goste!"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&size=28&pause=2000&duration=1600&color=4F756F&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Marcus!;Bem-vindo+ao+meu+perfil!;Espero+que+goste!"/>
 
 <br>
 <br>
