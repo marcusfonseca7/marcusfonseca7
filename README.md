@@ -63,7 +63,7 @@ Atualmente, busco minha primeira oportunidade na área de tecnologia para aplica
 <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
 
 <h4 align="center"> ⚙️ Ferramentas </h4>
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" /> </p>
 
 <p align="center">
 Tenho focado meus estudos e projetos principalmente em <b>Java, Python, Flask, JavaScript, HTML/CSS e bancos de dados</b>.
