@@ -42,7 +42,7 @@ Atualmente, busco minha primeira oportunidade na área de tecnologia para aplica
 
 <div align="center">
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jxPFhwFeKaJviIqXSDtEgqfg-CYAXXBz_A&s" width = 85px> ➡️
-<img align="center" src="https://www.sipetrol.org.br/wp-content/uploads/2023/03/Braz-Cubas-1.png" width = 95px> ➡️
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHscHpNRD_9BRWmuKNvkGVFqEfl9MWefiZak0n38j6lhxetsY1BK7zRlwg&s=10" width = 95px> ➡️
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9SO0RlUApnvBzIQ7Tyb-Y1TPV25mxWK8Dw&s" width = 90px> ➡️
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_UFABC.jpg" width = 108px;>
 </div> <br>
