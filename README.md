@@ -37,8 +37,8 @@ Atualmente, busco minha primeira oportunidade na área de tecnologia para aplica
 
 - 🎓 Bacharelado em Ciência e Tecnologia – <b>UFABC</b> (em andamento)
 - 🎓 Técnico em Desenvolvimento de Sistemas – <b>SENAI Anchieta</b> (em andamento)
-- 🎓 Análise e Desenvolvimento de Sistemas – <b>Universidade Braz Cubas</b>
-- 🎓 Técnico em Administração – <b>Etec Ferraz de Vasconcelos</b>
+- 🎓 Análise e Desenvolvimento de Sistemas – <b>Universidade Braz Cubas</b> ✅
+- 🎓 Técnico em Administração – <b>Etec Ferraz de Vasconcelos</b> ✅
 
 <div align="center">
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jxPFhwFeKaJviIqXSDtEgqfg-CYAXXBz_A&s" width = 85px> ➡️
